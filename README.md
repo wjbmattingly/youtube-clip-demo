@@ -4,5 +4,8 @@ This repository houses the code used to create an [Annoy Index](https://github.c
 
 This repository also has the code for querying the Annoy index with an encoded text-based query. This allows a user to search a database of images with text.
 
+
+!["YouTube Thumbnail"](youtube-thumbnail.png)
+
 # Citation to Images
 For a complete citation to all images used in this repository, see `data/citation.md`.
